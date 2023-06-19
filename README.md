@@ -10,7 +10,7 @@ This application is an effecient and easy way to generate/make a logo, its fast 
 
 
 ![Deployed app screenshot](./assets/Screenshot%202023-06-19%20at%2021.55.35.png)
-![Deployed app screenshot](./assets/Screenshot%202023-06-19%20at%2022.09.28.png)
+![Deployed app screenshot](./assets/Screenshot%202023-06-19%20at%2022.22.06.png)
 
 # Installation
 
