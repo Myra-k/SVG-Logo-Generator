@@ -41,8 +41,6 @@ npm test
 
 ## Review
 
-* URL Of Deployed Application (https://myra-k.github.io/Coding-Quiz-WebPage/)
-
 * URL Of Github Repository (https://github.com/Myra-k/SVG-Logo-Generator.git)
 
 ## Licence
